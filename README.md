@@ -1,13 +1,12 @@
 
 # The Continental hotel management tool
 
-This is a simple school cs project for my grade 12 board examinations.
-If you want to use this for your school project or anything then feel free to do so
+A smart and user-friendly Python + Tkinter + MySQL hotel management application designed to simplify bookings, guest management, room tracking, and check-in/check-out operations—all in one place.
 
 
 ## Deployment
 
-To run this project open the main.py python file
+To run this open the main.py python file
 
 ```bash
   python main.py
